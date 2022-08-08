@@ -6,8 +6,6 @@
 .pnp.js
 
 #linters
-.eslint.json
-.stylelintrc.json
 
 # testing
 /coverage
