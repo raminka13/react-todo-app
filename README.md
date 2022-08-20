@@ -6,6 +6,8 @@
 # React Todo App 🧮
 > A simple todo app to save cool thing to do. It is a Single Page App (SPA).
 
+![](./ScreenShot-react-todo-app.png)
+
 ## Tech ⌘⇧
 - **HTML & CSS best practices:** Correct use of tags, elements, properties and syntax.
 - **GitHub flow:**  Correct use of Branches for deployment and features development.
